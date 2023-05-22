@@ -1,0 +1,15 @@
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\deps\markup5ever-330da3b6c232147a.rmeta: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/generated.rs C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/named_entities.rs
+
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\deps\markup5ever-330da3b6c232147a.d: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/generated.rs C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/named_entities.rs
+
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\lib.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\data\mod.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\mod.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\interface\tree_builder.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\serialize.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\buffer_queue.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\markup5ever-0.10.1\util\smallcharset.rs:
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/generated.rs:
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\build\markup5ever-870b4e823afc6611\out/named_entities.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Ivan\\labs\\rust\\Metadata-Analysis\\target\\debug\\build\\markup5ever-870b4e823afc6611\\out

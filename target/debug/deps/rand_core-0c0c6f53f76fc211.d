@@ -1,0 +1,12 @@
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\deps\rand_core-0c0c6f53f76fc211.rmeta: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\deps\librand_core-0c0c6f53f76fc211.rlib: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\debug\deps\rand_core-0c0c6f53f76fc211.d: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs:
