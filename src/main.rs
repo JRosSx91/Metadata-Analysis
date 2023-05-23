@@ -1,3 +1,4 @@
+use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
 use std::io;
@@ -40,12 +41,8 @@ fn main() {
         let h4_selector = Selector::parse("h4").expect("Failed to create selector");
         let h5_selector = Selector::parse("h5").expect("Failed to create selector");
         let h6_selector = Selector::parse("h6").expect("Failed to create selector");
-        // Crear un selector para el footer
-        let footer_selector = Selector::parse("footer").expect("Failed to create selector");
-
-        // Crear un selector para los enlaces mailto dentro del footer
-        let mailto_selector =
-            Selector::parse("a[href^='mailto:']").expect("Failed to create selector");
+        let link_selector = Selector::parse("a[href]").expect("Failed to create selector");
+        let email_regex = Regex::new(r"^mailto:(.+@.+\.com)$").expect("Failed to create regex");
 
         // Imprimir el título de la página
         if let Some(element) = document.select(&title_selector).next() {
@@ -97,14 +94,13 @@ fn main() {
             let h6 = element.inner_html();
             println!("H6: {}", h6);
         }
-        // Seleccionar el footer
-        if let Some(element) = document.select(&footer_selector).next() {
-            // Dentro del footer, seleccionar los enlaces mailto
-            if let Some(mailto_element) = element.select(&mailto_selector).next() {
-                // Obtener el href del enlace mailto
-                if let Some(mailto_href) = mailto_element.value().attr("href") {
-                    // Eliminar el "mailto:" del inicio
-                    let email = mailto_href.trim_start_matches("mailto:");
+        for link_element in document.select(&link_selector) {
+            // Obtener el href del enlace
+            if let Some(href) = link_element.value().attr("href") {
+                // Comprobar si el href es un email
+                if let Some(captures) = email_regex.captures(href) {
+                    // Obtener el email de los grupos de captura
+                    let email = captures.get(1).unwrap().as_str();
                     println!("Email: {}", email);
                 }
             }
