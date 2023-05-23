@@ -1,0 +1,9 @@
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\release\deps\proc_macro_hack-af1685ad740c3dc7.dll: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+C:\Users\Ivan\labs\rust\Metadata-Analysis\target\release\deps\proc_macro_hack-af1685ad740c3dc7.d: C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\lib.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\quote.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\error.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\iter.rs:
+C:\Users\Ivan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-hack-0.5.20+deprecated\src\parse.rs:
